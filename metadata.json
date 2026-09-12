@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Quest",
+  "description": "An infinite casual arcade mobile game with unique mechanics for every level, created by Yerfan Hridoy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
